@@ -1,0 +1,18 @@
+{% extends 'layout.html' %}
+
+{% load static %}
+
+{% block content %}
+    <div class="row">
+        <div class="col-md-3">
+            <img class="card-img" src="{% static serie.get_image_path %}" alt="">
+        </div>
+        <div class="col-md-9">
+            <h1>{{ serie.name }}</h1>
+            <hr>
+            <p>
+                {{ serie.description }}
+            </p>
+        </div>
+    </div>
+{% endblock %}
