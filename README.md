@@ -14,6 +14,8 @@
          <img src="SiteResimleri/Login.JPG" alt=""><br>
          <p>Register Sayfası</p><br>
          <img src="SiteResimleri/Register.JPG" alt=""><br>
-        
+         <p>Admin Sayfası</p><br>
+         <img src="SiteResimleri/Admin.JPG" alt=""><br>
+         <img src="SiteResimleri/Admin2.JPG" alt=""><br>
         
         
