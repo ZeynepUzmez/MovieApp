@@ -6,8 +6,6 @@
         <img src="SiteResimleri/Home.JPG" alt=""><br>
          <p>About Sayfası</p><br>
          <img src="SiteResimleri/About.JPG" alt=""><br>
-         <p>About Sayfası</p><br>
-         <img src="SiteResimleri/About.JPG" alt=""><br>
          <p>Movies Sayfası</p><br>
          <img src="SiteResimleri/Movies1.JPG" alt=""><br>
          <p>Series Sayfası</p><br>
